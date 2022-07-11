@@ -19,7 +19,6 @@ function App() {
   //7. app다시 re render
   //8. let counter=0을 거치면서 counter 값은 다시 0으로 초기화 된다.
   //9. state값은 update가 되면서 다시 render를 한다.(업데이트된 state값이 보인다.)
-
   return (
     <div>
       {counter}
